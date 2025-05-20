@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Anshika Sharma, a passionate coder with a knack for crafting innovative solutions. Welcome to my GitHub profile!
+I'm Anshika Sharma, Welcome to my GitHub profile!
 
 ## About Me
 

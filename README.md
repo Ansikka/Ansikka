@@ -4,7 +4,7 @@ I'm Anshika Sharma, Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a Full Stack developer also well versed-with AI/ML currently exploring various technologies and enhancing my skills. I enjoy working on projects that challenge my creativity and technical abilities.
+I'm a Full Stack Developer also well-versed with AI/ML currently exploring various technologies and enhancing my skills. I enjoy working on projects that challenge my creativity and technical abilities.
 
 ## Skills & Technologies
 

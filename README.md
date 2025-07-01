@@ -4,7 +4,7 @@ I'm Anshika Sharma, Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a coder currently exploring various technologies and enhancing my skills. I enjoy working on projects that challenge my creativity and technical abilities.
+I'm a Full Stack developer also well versed-with AI/ML currently exploring various technologies and enhancing my skills. I enjoy working on projects that challenge my creativity and technical abilities.
 
 ## Skills & Technologies
 
@@ -20,9 +20,9 @@ html,css,js,react,nodejs,express,mongodb,docker,git,github,vue,java,graphql,aws,
 ## GitHub Stats
 
 ### 📊 GitHub Stats
-- **Public Repositories:** 14
+- **Public Repositories:** 25
 - **Followers:** 2
-- **Following:** 5
+- **Following:** 3
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansikka&show_icons=true&theme=radical)
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey there👋 I'm Anshika Sharma passionate web developer also well-versed with Data Science</h1>
 
 ###
 <div align="center">

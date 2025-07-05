@@ -51,13 +51,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansikka/Ansikka/output/Ansikka-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansikka/Ansikkaoutput/Ansikka-contribution-graph.svg">
-  <img alt="Anshika contribution graph" src="https://raw.githubusercontent.com/Ansikka/Ansikka/output/Ansikka-contribution-graph.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/Ansikka/Ansikka/output/Ansikka-contribution-graph.svg">
 </picture>
 
 ## Top Projects
 
 - [LeetCode Solutions](https://github.com/Ansikka/leetcode): 🔥 LeetCode solutions in various programming languages | ⭐ 0 stars | Language: Not specified
-- [MERN Full Stack Social Media App](https://github.com/Ansikka/mern-social-media): Complete React MERN Full Stack Social Media App | ⭐ 1 star | Language: JavaScript
+- [MERN Full Stack Social Media App](https://github.com/Ansikka/Kishan.py): Complete React MERN Full Stack Social Media App | ⭐ 1 star | Language: JavaScript
 - [E-commerce Project](https://github.com/Ansikka/mernProjectEcommerce): A fully functional e-commerce application built with the MERN stack | ⭐ 4 stars | Language: JavaScript
 - [Portfolio Gallery](https://github.com/Ansikka/portfolio-Gallery): A personal portfolio project showcasing my work | ⭐ 1 star | Language: HTML
 

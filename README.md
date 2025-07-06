@@ -50,7 +50,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansikka/Ansikka/output/Ansikka-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansikka/Ansikkaoutput/Ansikka-contribution-graph.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/Ansikka/Ansikka/output/Ansikka-contribution-graph.svg">
 </picture>
 
 ## Top Projects

@@ -67,14 +67,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansikka&show_icons=true&theme=radical)
 
-## Recent Activity
-
 ### 📝 Recent Activity
 - **Updated README.md** in [Ansikka](https://github.com/Ansikka/Ansikka) on May 16, 2025.
-
-## Latest Blog Posts
-
-*Currently, there are no blog posts available.*
 
 ## Connect with Me
 

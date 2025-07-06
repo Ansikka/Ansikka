@@ -54,10 +54,10 @@
 
 ## Top Projects
 
-- [LeetCode Solutions](https://github.com/Ansikka/leetcode5): 🔥 LeetCode solutions in various C++ languages | ⭐ 0 stars | Language: Not specified
+- [LeetCode Solutions](https://github.com/Ansikka/Leetcode5): 🔥 LeetCode solutions in various C++ languages | ⭐ 0 stars | Language: Not specified
 - [MERN Full Stack Social Media App](https://github.com/Ansikka/KrishiMitra.py): Complete python project to help our farmer App | ⭐ 1 star | Language: JavaScript
 - [E-commerce Project](https://github.com/Ansikka/mernProjectEcommerce): A fully functional e-commerce application built with the MERN stack | ⭐ 4 stars | Language: JavaScript
-- [Portfolio Gallery](https://github.com/Ansikka/EcgMATLAB.mat):LHOM feature extraction of ECG signals | ⭐ 1 star | Language: HTML
+- [Portfolio Gallery](https://github.com/Ansikka/EcgMATLAB.mat): LHOM feature extraction of ECG signals | ⭐ 1 star | Language: HTML
 
 ## GitHub Stats
 ### 📊 GitHub Stats

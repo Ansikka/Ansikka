@@ -62,13 +62,13 @@
 ## GitHub Stats
 ### 📊 GitHub Stats
 - **Public Repositories:** 25
-- **Followers:** 2
-- **Following:** 3
+- **Followers:** 6
+- **Following:** 5
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansikka&show_icons=true&theme=radical)
 
 ### 📝 Recent Activity
-- **Updated README.md** in [Ansikka](https://github.com/Ansikka/Ansikka) on May 16, 2025.
+- **Updated README.md** in [Ansikka](https://github.com/Ansikka/Ansikka) on May 15, 2025.
 
 ## Connect with Me
 

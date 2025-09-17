@@ -62,7 +62,7 @@
 ## GitHub Stats
 ### 📊 GitHub Stats
 - **Public Repositories:** 25
-- **Followers:** 11
+- **Followers:** 12
 - **Following:** 4
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansikka&show_icons=true&theme=radical)

@@ -57,7 +57,7 @@
 - [LeetCode Solutions](https://github.com/Ansikka/Leetcode5): LeetCode solutions in various C++ languages |⭐1 star | Language: C++
 - [KrishiMitra](https://github.com/Ansikka/KrishiMitra.py): Complete python project to help our farmer App |⭐39 stars | Language: Python
 - [E-commerce Project](https://github.com/Ansikka/mernProjectEcommerce): Functional e-commerce application built with the MERN stack |⭐4 stars| Language: JavaScript
-- [Feature extraction of ECG signal](https://github.com/Ansikka/EcgMATLAB.mat): LHOM feature extraction of ECG signals |⭐1star | Language: MATLAB
+- [Feature extraction of ECG signal](https://github.com/Ansikka/EcgMATLAB.mat): LHOM feature extraction of ECG signals |⭐1 star | Language: MATLAB
 
 ## GitHub Stats
 ### 📊 GitHub Stats

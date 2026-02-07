@@ -61,7 +61,7 @@
 
 ## GitHub Stats
 ### 📊 GitHub Stats
-- **Public Repositories:** 30
+- **Public Repositories:** 36
 - **Followers:** 12
 - **Following:** 4
 
